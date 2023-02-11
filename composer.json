@@ -15,13 +15,9 @@
 	"repositories": [{
 		"type": "vcs",
 		"url": "https://github.com/bangix28/riot-api-datadragon"
-	},
-			{
-		"type": "vcs",
-		"url": "https://github.com/bangix28/riot-api-league"
 	}],
 	"require": {
-		"dolejska-daniel/riot-api-league": "dev-master"
+		"dolejska-daniel/riot-api-league": "^1"
 	},
 	"require-dev": {},
 	"autoload": {},
