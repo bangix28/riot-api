@@ -14,7 +14,7 @@
 	],
 	"require": {
 		"dolejska-daniel/riot-api-league": "^1",
-		"dolejska-daniel/riot-api-datadragon": "dev-master@dev"
+		"dolejska-daniel/riot-api-datadragon": "^1"
 	},
 	"repositories": [{
 		"type": "vcs",
