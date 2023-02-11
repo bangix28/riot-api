@@ -14,9 +14,13 @@
 	],
 	"require": {
 		"dolejska-daniel/riot-api-league": "^1",
-		"bangix28/riot-api-datadragon": "*"
+		"dolejska-daniel/riot-api-datadragon": "^1"
 	},
+	"repositories": [{
+		"type": "vcs",
+		"url": "https://github.com/bangix28/riot-api-base"
+	}],
 	"require-dev": {},
 	"autoload": {},
-	"minimum-stability": "dev-master"
+	"minimum-stability": "stable"
 }
