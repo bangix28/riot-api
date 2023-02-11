@@ -21,8 +21,8 @@
 		"url": "https://github.com/bangix28/riot-api-league"
 	}],
 	"require": {
-		"bangix28/riot-api-league": "dev-master",
-		"bangix28/riot-api-datadragon": "dev-master"
+		"dolejska-daniel/riot-api-league": "dev-master",
+		"dolejska-daniel/riot-api-datadragon": "dev-master"
 	},
 	"require-dev": {},
 	"autoload": {},
