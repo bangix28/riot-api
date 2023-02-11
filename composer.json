@@ -12,10 +12,12 @@
 			"role": "Developer"
 		}
 	],
-	"repositories": [{
-		"type": "vcs",
-		"url": "https://github.com/bangix28/riot-api-datadragon"
-	}],
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bangix28/riot-api-datadragon"
+        }
+    ],
 	"require": {
 		"dolejska-daniel/riot-api-league": "^1",
 		"dolejska-daniel/riot-api-datadragon": "dev-master"
