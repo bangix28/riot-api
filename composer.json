@@ -18,7 +18,7 @@
 	},
 	"repositories": [{
 		"type": "vcs",
-		"url": "https://github.com/bangix28/riot-api-base"
+		"url": "https://github.com/bangix28/riot-api-datadragon"
 	}],
 	"require-dev": {},
 	"autoload": {},
