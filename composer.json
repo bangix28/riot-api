@@ -17,7 +17,6 @@
 		"url": "https://github.com/bangix28/riot-api-datadragon"
 	}],
 	"require": {
-		"dolejska-daniel/riot-api-league": "^15",
 		"dolejska-daniel/riot-api-datadragon": "^5"
 	},
 	"require-dev": {},
